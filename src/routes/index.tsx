@@ -536,7 +536,7 @@ function DownloadSection() {
 /* -------------------- Why Nova (comparison) -------------------- */
 
 const NOVA_PROS = [
-  "Voice Assistant", "AI Chat (Coming Soon)", "Browser Automation", "Music", "News (Coming Soon)",
+  "Voice Assistant", "AI Chat", "Browser Automation", "Music", "News",
   "Desktop Automation", "Wake Word", "Modern UI",
 ];
 const TRAD = ["Limited", "Basic", "No Automation", "Less Flexible"];
@@ -641,10 +641,10 @@ function DevelopmentStatus() {
   const features = [
     "Desktop GUI",
     "Voice Assistant",
-    "AI Chat",
+    "AI Chat (Coming soon)",
     "Wake Word Detection",
     "Browser Automation",
-    "News Reader",
+    "News Reader (Coming soon)",
     "Music Control",
     "Multilingual Support",
   ];
