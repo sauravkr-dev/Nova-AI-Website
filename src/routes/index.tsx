@@ -261,7 +261,7 @@ function Hero() {
           </span>
         </div>
 
-        <div className="relative mx-auto mb-8 h-44 w-44 sm:h-52 sm:w-52">
+        <div className="relative mx-auto mb-8 h-56 w-56 sm:h-64 sm:w-64">
           <div className="absolute inset-0 animate-pulse-glow rounded-full bg-gradient-brand blur-2xl opacity-70" />
           <img
             src={novaLogo}
@@ -536,7 +536,7 @@ function DownloadSection() {
 /* -------------------- Why Nova (comparison) -------------------- */
 
 const NOVA_PROS = [
-  "Voice Assistant", "AI Chat", "Browser Automation", "Music", "News",
+  "Voice Assistant", "AI Chat (Coming Soon)", "Browser Automation", "Music", "News (Coming Soon)",
   "Desktop Automation", "Wake Word", "Modern UI",
 ];
 const TRAD = ["Limited", "Basic", "No Automation", "Less Flexible"];
