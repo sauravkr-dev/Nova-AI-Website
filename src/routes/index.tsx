@@ -483,7 +483,7 @@ function DownloadSection() {
             </div>
 
             <div className="flex flex-col gap-3">
-              <a href="https://github.com/sauravkr-dev/Nova-AI-Voice-assistant/releases/download/v0.9.0/NovaAI.exe"
+              <a href="https://github.com/sauravkr-dev/Nova-AI-Voice-assistant/releases/download/v0.9.0/NovaAI.zip"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-3 rounded-2xl bg-gradient-brand p-4 text-white shadow-[0_15px_50px_-10px_oklch(0.65_0.22_285/0.7)] transition hover:scale-[1.02]">
